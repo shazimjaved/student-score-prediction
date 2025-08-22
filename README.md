@@ -14,7 +14,7 @@ Finally, it selects the best-performing model based on R² score and visualizes 
 
 🛠️ Technologies Used
 
-Python 3
+Python 3.xx
 
 Pandas (Data handling)
 
@@ -125,5 +125,6 @@ Deploy model using Flask or Streamlit
 Add real-world student data for predictions
 
 📜 License
+
 
 This project is open-source and available under the MIT License.
